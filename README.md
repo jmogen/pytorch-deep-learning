@@ -1,3 +1,8 @@
+This is just a repo I forked to learn some pytorch basics
+
+
+# Original Read Me Below
+
 # Learn PyTorch for Deep Learning
 
 Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch), the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
