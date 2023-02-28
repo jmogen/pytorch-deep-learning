@@ -1,7 +1,7 @@
 This is just a repo I forked to learn some pytorch basics
 
 
-# Original Read Me Below
+Original Read Me Below
 
 # Learn PyTorch for Deep Learning
 
